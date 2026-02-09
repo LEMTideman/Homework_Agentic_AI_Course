@@ -3587,10 +3587,10 @@ Child B reads 0
 
 Chapter 9. Threads
 
-1
+0
 0
 
-0
+1
 0
 
 Child C reads 0
