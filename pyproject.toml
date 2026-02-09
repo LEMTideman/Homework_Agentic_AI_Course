@@ -1,0 +1,14 @@
+[project]
+name = "homework-ai-engineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.5.3",
+    "minsearch>=0.0.8",
+    "openai>=2.17.0",
+    "pydantic-ai>=1.56.0",
+    "toyaikit>=0.0.9",
+    "youtube-transcript-api>=1.2.4",
+]
