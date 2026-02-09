@@ -5,10 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "gitsource>=0.0.4",
     "jupyterlab>=4.5.3",
+    "markitdown[pdf]>=0.1.4",
     "minsearch>=0.0.8",
     "openai>=2.17.0",
     "pydantic-ai>=1.56.0",
+    "requests>=2.32.5",
     "toyaikit>=0.0.9",
     "youtube-transcript-api>=1.2.4",
 ]
