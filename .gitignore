@@ -11,3 +11,7 @@ wheels/
 
 # API keys
 .env
+
+# Data 
+taxi.db
+*.parquet
