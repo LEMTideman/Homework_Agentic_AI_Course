@@ -1,1 +1,1 @@
-Homework assignments related to the **AI Engineering Buildcamp: From RAG to Agents** course by Alexey Grigorev on Maven.
+Homework assignments related to the **AI Engineering Buildcamp: From RAG to Agents** course by Alexey Grigorev on Maven. The course covered language models & retrieval-augmented generation, agentic workflows, model context protocol, agent testing, evaluation, and monitoring. Refer to https://maven.com/alexey-grigorev/from-rag-to-agents for more information. 
